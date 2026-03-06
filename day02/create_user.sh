@@ -8,4 +8,4 @@ sudo useradd -m $username
 echo "New User added"
 
 #passing arguments
-echo "we learn by doing"
+echo "we learn by doing and practicing"
