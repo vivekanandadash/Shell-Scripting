@@ -4,5 +4,5 @@ if [[ $answer == "yes" ]];
 then
 	echo "you are elgible to aplly for Driving license"
 else
-	echo "you are not allowed"
+	echo "you are not allowed for Driving licence"
 fi
