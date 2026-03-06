@@ -11,5 +11,5 @@ echo "Name is $name , and date is $(date)"
 
 echo "enter the name:"
 read username
-echo "You entered $userName"
+echo "You entered $username"
 
