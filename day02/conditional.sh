@@ -2,7 +2,7 @@
 read -p "Are you above 18 :(yes/no)" answer
 if [[ $answer == "yes" ]];
 then
-	echo "you are elgible to aplly for dl"
+	echo "you are elgible to aplly for Driving license"
 else
 	echo "you are not allowed"
 fi
