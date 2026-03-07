@@ -2,8 +2,10 @@
 
 num=0
 
-while [[ $num -le 5 ]]
+while [[ $((num%2))==0 && $num -le 10 ]]
 do
-	echo "learn"
-	num=$num+1
+	echo "$num"
+	num=$(( num+1 ))
+
+	
 done
