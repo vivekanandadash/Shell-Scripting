@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 #echo "learn about error handling"
 create_directory() {
 mkdir demo
@@ -10,4 +11,5 @@ if ! create_directory; then
 	exit 1;
 fi
 
-echo "this should not work because the code is inturrpted"
+echo "this should not work because the code is interupted"
+
